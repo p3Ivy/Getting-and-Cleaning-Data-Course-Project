@@ -21,7 +21,6 @@ unzip(zipfile="./data/Dataset.zip", exdir="./data")
 library(dplyr)
 library(data.table)
 library(tidyr)
-library(knitr)
 
 ## Useful UCI HAR datasets for this project
 ##  Subject variable values are stored in the following files:
